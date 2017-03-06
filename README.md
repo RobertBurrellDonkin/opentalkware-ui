@@ -1,6 +1,26 @@
 # OpenTalkware UI
 A template for HTML based slideshows based on S5.
 
+##Introduction
+
+S5 is a presentation system purely based on open web standards. Slideshows can be created from nothing more than HTML, CSS and JavaScript. It's ideally suited to the creation of open content.
+
+This means that source is textual and so plays very well with subversion. Being HTML, the latest version of each presentation is automatically available online as the URL.
+
+The versions of S5 used are public domain.
+
+## Open Talk Ware UI
+
+The OpenTalkWare UI is a BSD licensed derivative of S5.
+
+    Example documents removed
+    OpenTalkWare template added
+    Improved readability in outline
+        Indicate visually note and handout sections so they are clearly separated from slide content when viewing outline
+    Cosmetic changes to default theme
+        Remove solid colour bar from header
+
+
 # OpenTalkware
 
 OpenTalkware was relocated from GoogleCode https://code.google.com/archive/p/opentalkware/.
